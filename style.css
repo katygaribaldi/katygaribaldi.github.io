@@ -1,0 +1,42 @@
+			body {
+				background-color: #D8D1D4;
+			}
+
+			a {
+				color: black;
+			}
+			a:hover{
+				color:white;
+			}
+
+			ul {
+			    list-style-type: circle;
+			    margin: 20px;
+			    padding: 0;
+			}
+			h1{
+				font-size:60px;
+				text-align: center;
+			}
+			h2{
+				text-align: center
+			}
+			img {
+				height: 200px;				
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 20%;
+			}
+
+			div{
+				
+			}
+
+			.lyrics {
+				background-color: green;
+				width: 1000px;
+				margin: 20px;
+				padding: 10px;
+
+			}
