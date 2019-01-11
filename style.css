@@ -57,9 +57,15 @@
 			}
 
 			.left {
-			  width: 25%;
+			  width: 10%;
 			}
 
 			.right {
-			  width: 75%;
+			  width: 90%;
+			}
+
+			.row:after {
+			  content: "";
+			  display: table;
+			  clear: both;
 			}
