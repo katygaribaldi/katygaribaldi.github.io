@@ -1,7 +1,5 @@
 			
 
-
-
 			body {
 				background-color: #e0e0e0;
 				color: #4b4d51;
@@ -13,37 +11,7 @@
 			a:hover{
 				color:black;
 			}
-			
-			.card {
-				box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-				padding: 1px;
-				text-align: center;
-				background-color: #f1f1f1;
-			}
 
-			* {
-			  box-sizing: border-box;
-			}
-			
-			.column {
-				float: left;
-				padding: 10px;
-			}
-
-			.left {
-			  width: 30%;
-			}
-
-			.right {
-			  width: 70%;
-			}
-
-			.row:after {
-			  content: "";
-			  display: table;
-			  clear: both;
-			}
-			
 			ul {
 			    list-style-type: circle;
 			    margin: 20px;
@@ -68,4 +36,36 @@
 				
 			}
 
+			* {
+			  box-sizing: border-box;
+			}
 
+			.card {
+				box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+				padding: 1px;
+				text-align: center;
+				background-color: #f1f1f1;
+			}
+
+			.row {
+				display: flex;
+			}
+
+			.column {
+				float: left;
+				padding: 10px;
+			}
+
+			.left {
+			  width: 10%;
+			}
+
+			.right {
+			  width: 90%;
+			}
+
+			.row:after {
+			  content: "";
+			  display: table;
+			  clear: both;
+			}
