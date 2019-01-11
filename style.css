@@ -1,5 +1,3 @@
-			
-
 			body {
 				background-color: #e0e0e0;
 				color: #4b4d51;
@@ -50,14 +48,15 @@
 
 			.column {
 				float: left;
+				padding: 10px;
 			}
 
 			.left {
-			  width: 10%;
+			  width: 20%;
 			}
 
 			.right {
-			  width: 90%;
+			  width: 80%;
 			}
 
 			.row:after {
