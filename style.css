@@ -1,7 +1,5 @@
 			
-			* {
-			  box-sizing: border-box;
-			}
+
 
 
 			body {
@@ -48,6 +46,10 @@
 				background-color: #f1f1f1;
 			}
 
+			* {
+			  box-sizing: border-box;
+			}
+			
 			.column {
 				float: left;
 				padding: 10px;
