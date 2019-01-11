@@ -13,32 +13,7 @@
 			a:hover{
 				color:black;
 			}
-
-			ul {
-			    list-style-type: circle;
-			    margin: 20px;
-			    padding: 0;
-			}
-			h1{
-				font-size:60px;
-				text-align: center;
-			}
-			h2{
-				
-			}
-			img {
-				height: 100px;				
-				display: block;
-				margin-left: auto;
-				margin-right: auto;
-				width: 20%;
-			}
-
-			div{
-				
-			}
-
-
+			
 			.card {
 				box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
 				padding: 1px;
@@ -68,3 +43,29 @@
 			  display: table;
 			  clear: both;
 			}
+			
+			ul {
+			    list-style-type: circle;
+			    margin: 20px;
+			    padding: 0;
+			}
+			h1{
+				font-size:60px;
+				text-align: center;
+			}
+			h2{
+				
+			}
+			img {
+				height: 100px;				
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 20%;
+			}
+
+			div{
+				
+			}
+
+
