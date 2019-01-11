@@ -47,9 +47,6 @@
 				background-color: #f1f1f1;
 			}
 
-			.row {
-				display: flex;
-			}
 
 			.column {
 				float: left;
